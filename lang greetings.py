@@ -16,5 +16,3 @@ class Greeter:
             
 greeter1 = Greeter()
 greeter1.greet()
-
-print(list(Greeter))
